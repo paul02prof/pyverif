@@ -1,8 +1,6 @@
 <h1 align="center">
-<img src="https://github.com/paul02prof/pyverif/blob/master/P-removebg-preview.png" width="300">
+<img src="https://github.com/paul02prof/pyverif/blob/master/P-removebg-preview.png" width="500">
 </h1><br>
-![image alt](https://github.com/paul02prof/pyverif/blob/master/P-removebg-preview.png?raw=true)
-
 
 
 
