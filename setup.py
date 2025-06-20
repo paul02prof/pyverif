@@ -8,7 +8,7 @@ setup(
     description="Package de vérification",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/votre/repo",
+    url="https://github.com/paul02prof/pyverif",
     packages=find_packages(),
     license="MIT",
     classifiers=[
