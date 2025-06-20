@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/paul02prof/pyverif/blob/master/P-removebg-preview.png" width="500">
+<img src="https://github.com/paul02prof/pyverif/blob/master/P-removebg-preview.png" width="200">
 </h1><br>
 
 PyVerif is a  package for form checking with Python.

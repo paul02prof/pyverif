@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pyverif",
-    version="0.1.0",
+    version="0.1.1",
     author="Ninmegne Paul",
     author_email="paul02prof@gmail.com",
     description="Package de vérification",
